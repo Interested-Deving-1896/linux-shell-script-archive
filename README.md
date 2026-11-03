@@ -80,7 +80,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 <!-- AI:start:contributors -->
 | Contributor | Commits |
 |---|---|
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 24 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 25 |
 | [@omyldrm](https://github.com/omyldrm) | 4 |
 <!-- AI:end:contributors -->
 
@@ -113,5 +113,5 @@ for accessibility guidance.
 ## License
 
 <!-- AI:start:license -->
-<!-- License not detected — add a LICENSE file to this repo. -->
+[MIT](https://github.com/Interested-Deving-1896/linux-shell-script-archive/blob/main/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
 <!-- AI:end:license -->
